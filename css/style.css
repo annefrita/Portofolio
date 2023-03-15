@@ -1,0 +1,58 @@
+body {
+    height: 5000px;
+}
+
+.navbar {
+background-color: #ff9801;
+font-size: 1rem;
+}
+
+.jumbotron {
+    background-color: #f58d00;
+    padding-top: 6rem;
+}
+
+.jumbotron span {
+    color: orangered;
+}
+
+.bi-person-circle {
+    font-size: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: orangered;
+}
+
+.col-lg-12  {
+    background-color: #e7e0e0;
+    padding: 0.5rem;
+}
+
+.bi-bag-fill {
+    font-size: 1rem;
+}
+
+.btn {
+    background-color: orangered;
+}
+
+.progress {
+    height: 30px;
+}
+
+.card   {
+    margin-top: 2rem;
+}
+
+.carousel {
+    height: 300px;
+    width: 350px;
+    margin-bottom: 2rem;
+}
+
+.bi-geo-alt,
+.bi-egg-fried,
+.bi-wallet2,
+.bi-car-front {
+    font-size: 10rem;
+}
